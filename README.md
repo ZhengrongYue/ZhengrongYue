@@ -7,8 +7,8 @@ I'm  ✨ <a href='https://zhengrongyue.github.io/'> **Zhengrong Yue** </a> ✨, 
 
 
 💼 Experiences
-- [2020-Now]💪 I‘m pursuing a Ph.D. at Shanghai Jiao Tong University and Shanghai AI Lab, advised by Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at Samsung and SIAT. Now I'm working at Shanghai AI Lab.
-- [2016-2020]🎉 I obtained my Bachelor’s degree in Computer Science and Technology from China University of Mining and Technology (Beijing).
+- [2024-Now]💪 I‘m pursuing a Ph.D. at Shanghai Jiao Tong University and Shanghai AI Lab, advised by Prof. <a href='https://scholar.google.com/citations?user=hD948dkAAAAJ'>Yali Wang</a>. I have been a Research Intern at Samsung and SIAT. Now I'm working at Shanghai AI Lab.
+- [2020-2024]🎉 I obtained my Bachelor’s degree in Computer Science and Technology from China University of Mining and Technology (Beijing).
 
 
 🔭 Research Interests
